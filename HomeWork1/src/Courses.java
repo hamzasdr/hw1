@@ -4,6 +4,7 @@ public class Courses {
 	private String cno;
 	private int crh;
 	private int grade;
+	private int hamza;
 		
 	public Courses(String cno)
 	{
