@@ -5,6 +5,7 @@ public class Courses {
 	private int crh;
 	private int grade;
 	private int hamza;
+	private int nothamza;
 		
 	public Courses(String cno)
 	{
