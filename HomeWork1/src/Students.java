@@ -6,6 +6,8 @@ public class Students
 	private String name;
 	private String major;
 	private String birthdate;
+	
+	private String hello-jenkins;
 	ArrayList <Courses> courses;
 	 
 	public Students(String id)
